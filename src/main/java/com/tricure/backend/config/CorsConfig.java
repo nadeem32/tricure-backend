@@ -15,7 +15,8 @@ public class CorsConfig {
             @Override
             public void addCorsMappings(CorsRegistry registry) {
             	registry.addMapping("/**")
-                .allowedOrigins("*")
+                .allowedOrigins("https://tricure-frontend-production.up.railway.app")
+//                https://tricure-frontend-production.up.railway.app
                 .allowedMethods("GET", "POST", "PUT", "DELETE", "OPTIONS")
                 .allowedHeaders("*");
 
