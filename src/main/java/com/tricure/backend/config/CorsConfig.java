@@ -18,7 +18,8 @@ public class CorsConfig {
                 .allowedOrigins("https://tricure-frontend-production.up.railway.app")
 //                https://tricure-frontend-production.up.railway.app
                 .allowedMethods("GET", "POST", "PUT", "DELETE", "OPTIONS")
-                .allowedHeaders("*");
+                .allowedHeaders("*")
+            	 .allowCredentials(true);
 
             }
         };
