@@ -9,7 +9,7 @@ import java.util.List;
 
 @RestController
 @RequestMapping("/api")
-@CrossOrigin(origins = "*")
+//@CrossOrigin(origins = "*")
 public class CmsController {
 
     @Autowired private ServiceRepository serviceRepository;
