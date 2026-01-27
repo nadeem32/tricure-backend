@@ -9,6 +9,7 @@ C:\Users\admin\.gemini\antigravity\scratch\tricure-innovations\backend\src\main\
 C:\Users\admin\.gemini\antigravity\scratch\tricure-innovations\backend\src\main\java\com\tricure\backend\TricureBackendApplication.java
 C:\Users\admin\.gemini\antigravity\scratch\tricure-innovations\backend\src\main\java\com\tricure\backend\controller\CmsController.java
 C:\Users\admin\.gemini\antigravity\scratch\tricure-innovations\backend\src\main\java\com\tricure\backend\controller\CompanySettingsController.java
+C:\Users\admin\.gemini\antigravity\scratch\tricure-innovations\backend\src\main\java\com\tricure\backend\controller\CorsConfig.java
 C:\Users\admin\.gemini\antigravity\scratch\tricure-innovations\backend\src\main\java\com\tricure\backend\controller\ProductController.java
 C:\Users\admin\.gemini\antigravity\scratch\tricure-innovations\backend\src\main\java\com\tricure\backend\repository\ProductRepository.java
 C:\Users\admin\.gemini\antigravity\scratch\tricure-innovations\backend\src\main\java\com\tricure\backend\entity\ProductDemoPage.java

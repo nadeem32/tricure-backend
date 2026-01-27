@@ -1,4 +1,6 @@
+com\tricure\backend\controller\CorsConfig$1.class
 com\tricure\backend\repository\FaqRepository.class
+com\tricure\backend\controller\CorsConfig.class
 com\tricure\backend\entity\CompanySettings.class
 com\tricure\backend\repository\CompanySettingsRepository.class
 com\tricure\backend\entity\Service.class
